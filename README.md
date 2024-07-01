@@ -12,4 +12,6 @@ python manage.py startapp "nom"
 
 Temps estimé pour le projet ~ 8h :
 
-Je me suis arrêté à la partie dédié au chatbot. J'ai utilisé ChatterBot après avoir découvert que l'API GPT de OpenAI nécessite un paiement.
+Je me suis arrêté à la partie dédié au chatbot. J'ai utilisé ChatterBot sans succès après avoir découvert que l'API GPT de OpenAI nécessite un paiement.
+
+Je n'ai pas pu héberger le site car il renvoie une erreur. J'ai essayé avec Vercel, mais cela n'a pas fonctionné, chaque fois que je clique sur le lien, une erreur s'affiche.
